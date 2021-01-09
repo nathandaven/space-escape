@@ -31,8 +31,6 @@ https://drive.google.com/drive/folders/1_kgUTm4Lrtne1-PfH0t2fwKlhhWhXJyI
 
 ![image](screenshots/3.png)
 
-![image](screenshots/4.png)
-
 ![image](screenshots/5.png)
 
 ![image](screenshots/6.png)
