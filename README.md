@@ -1,5 +1,6 @@
 # Space Escape - 3D WebGL Unity Game
 **Final Project for LMC 2730 at Georgia Tech**
+
 **By: Katie Carlson, Nathan Davenport, Nahiza Haque, Kelsey Sheridan**
 
 For our final class project, our group of four designed an
