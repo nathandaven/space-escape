@@ -1,5 +1,5 @@
 # Space Escape - 3D WebGL Unity Game
-## By: Katie Carlson, Nathan Davenport, Nahiza Haque, Kelsey Sheridan
+**By: Katie Carlson, Nathan Davenport, Nahiza Haque, Kelsey Sheridan**
 
 For our final class project, our group of four designed an
 interactive prototype of an escape game that takes place in space.
@@ -26,3 +26,17 @@ https://drive.google.com/drive/folders/1_kgUTm4Lrtne1-PfH0t2fwKlhhWhXJyI
 
 # Screenshots
 ![image](screenshots/1.png)
+
+![image](screenshots/2.png)
+
+![image](screenshots/3.png)
+
+![image](screenshots/4.png)
+
+![image](screenshots/5.png)
+
+![image](screenshots/6.png)
+
+![image](screenshots/7.png)
+
+![image](screenshots/8.png)
