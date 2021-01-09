@@ -10,7 +10,7 @@ advanced space technology theme and implemented that within
 both the design atmosphere and the narrative story-line. We
 divided the work among our strengths and weaknesses and
 collaborated to bring to life our vision of what it might be like to
-escape a spaceship full of failing technology.
+escape a spaceship full of failing technology. Almost all art, modeling, and scripting is original work.
 
 For further background: [Process Esssay](https://8fdb2b80-0634-45aa-98b8-cfecd4f6659f.filesusr.com/ugd/9cda48_996eb8a907b34128bba1e1f2afacf9ff.pdf)
 
