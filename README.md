@@ -14,6 +14,8 @@ escape a spaceship full of failing technology. Almost all art, modeling, and scr
 
 For further background: [Process Esssay](https://8fdb2b80-0634-45aa-98b8-cfecd4f6659f.filesusr.com/ugd/9cda48_996eb8a907b34128bba1e1f2afacf9ff.pdf)
 
+Play the game: [Game Link](https://nathandaven.com/works/space-escape/)
+
 # Screenshots
 ![image](screenshots/1.png)
 
